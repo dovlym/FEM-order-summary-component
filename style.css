@@ -157,7 +157,8 @@ footer{
      text-align: center;
 }
 .attribution a { 
-    color:var(--neutral-light-purple);
+    color:var(--primary-color);
+    font-weight: 500;
 }
 
 /*Media queries*/
