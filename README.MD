@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-order-summary-component)
+[My Solution](https://dovlym.github.io/FEM-order-summary-component)
 
 
 ## My process
